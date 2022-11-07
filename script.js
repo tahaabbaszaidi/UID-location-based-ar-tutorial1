@@ -34,7 +34,7 @@ var models = [
     },
     {
         url: './assets/dragonite/scene.gltf',
-        scale: '0.9 0.9 0.9',
+        scale: '0.01 0.01 0.01',
         rotation: '0 180 0',
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
